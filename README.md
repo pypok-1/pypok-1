@@ -1,44 +1,56 @@
-# Hi! I'm Eva
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBwMTNoMmw2MWMwODgxOWhwazlqOHZvY2xlaWUxMWQzYzQxYmU2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JmPabUqU22FAbQYkzN/giphy.gif" width="250px"><br>
+  <h1>Hi! I'm Eva</h1>
+  <b>Self-Driven Software Developer & Aspiring Undergrad</b>
+</p>
 
-### Future CS Student | Python & Web Developer
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="coding gif"/>
-
-I am passionate about Computer Science and am actively studying Python and web development.  
-My aim is to gain a place at an international university to study Computer Science.
-
----
-
-### My Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+I am an independent developer preparing for university admissions. Currently focused on building scalable web applications, mastering backend architecture, and practicing modern DevOps workflows through hands-on projects. Building upon a solid foundation from completing a two-year software development program, I am currently dedicating myself to intensive daily self-study and engineering.
 
 ---
 
-### My Projects
+### Things I code with
 
-#### [SMART RECIPE](https://github.com/AndriyPy/Recipe220)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Flask_API](https://img.shields.io/badge/Flask_API-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Jinja](https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white)](https://jinja.palletsprojects.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+---
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBwMTNoMmw2MWMwODgxOWhwazlqOHZvY2xlaWUxMWQzYzQxYmU2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gUNA7QH4AeLde/giphy.gif" width="25px"> Methodologies & Professional Skills
+
+* **Teamwork & Collaboration:** Experienced in working within small cross-functional teams, managing tasks collectively, and practicing clear team communication.
+* **Development Workflows:** Proficient with Git-based collaboration (pull requests, code reviews, branching strategies) and familiar with Agile/Scrum fundamentals.
+* **Problem Solving:** Strong analytical mindset focused on debugging complex backend performance challenges and configuring monitoring tools.
+* **Self-Management:** Highly organized learner capable of scoping project requirements and meeting strict delivery deadlines.
+
+---
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBwMTNoMmw2MWMwODgxOWhwazlqOHZvY2xlaWUxMWQzYzQxYmU2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gUNA7QH4AeLde/giphy.gif" width="25px"> Projects
+
+### [SMART RECIPE](https://github.com/pypok-1) 
 A collaborative web service powered by AI (OpenRouter) and PostgreSQL, featuring an advanced recipe generator and a complete monitoring stack (Grafana & Prometheus).
-> **Key Takeaway:** Developed strong team collaboration, critical thinking, and crisis management skills by resolving deployment blockers under tight deadlines. Mastered environment dockerization and production-level system logging.
+> **Key Takeaways:** Engineered integration with external AI APIs; configured automated application monitoring and performance metrics; implemented Docker containerization for seamless deployment.
 
-#### [LUNOR](ссылка_на_ваш_гитхаб_LUNOR)
+### [LUNOR](https://github.com/pypok-1) 
 A full-stack skincare web application built with FastAPI, SQLAlchemy, and Jinja2 templates, featuring secure JWT/cookie authentication and account management.
-> **Key Takeaway:** Developed alongside a single teammate in a peer-to-peer setup. Sharpened adaptive problem-solving, clean API design, and strict password security (bcrypt). Proved high accountability and emotional resilience during intense coding sprints.
+> **Key Takeaways:** Designed a clean RESTful API with rigid security standards using `bcrypt` for password hashing and secure token-based authentication; collaborated in a peer-to-peer setup utilizing Git workflows.
 
-#### [GameBar](https://github.com/TimeosPPS/GameBar)
-A game catalog web application built with Flask, SQLAlchemy, and Tailwind CSS, featuring search, genre/rating filtering, and a favorites system.
-> **Key Takeaway:** My earliest foundational project, developed in a 3-person team. It introduced me to full-stack web development and taught me the basics of Git workflow. Sharpened my initial communication skills, team alignment, and collective feature planning.
+### [GameBar](https://github.com/pypok-1/TimeosPPS/tree/main/GameBar) 
+A game catalog web application built with Flask, SQLAlchemy, and Tailwind CSS, featuring global search, genre/rating filtering, and a personalized favorites system.
+> **Key Takeaways:** Implemented robust database models, search queries, and relational data structures within a 3-person team.
 
 ---
 
-### How to reach me
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBwMTNoMmw2MWMwODgxOWhwazlqOHZvY2xlaWUxMWQzYzQxYmU2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gUNA7QH4AeLde/giphy.gif" width="25px"> Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твой@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ссылка)
-
-</div>
+* **GitHub:** [pypok-1](https://github.com/pypok-1)
+> *More platforms coming soon...*
