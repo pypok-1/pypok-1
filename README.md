@@ -36,7 +36,7 @@ I am an independent developer preparing for university admissions. Currently foc
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBwMTNoMmw2MWMwODgxOWhwazlqOHZvY2xlaWUxMWQzYzQxYmU2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gUNA7QH4AeLde/giphy.gif" width="25px"> Projects
 
-### [SMART RECIPE] (https://github.com/AndriyPy/Recipe220) 
+### [SMART RECIPE](https://github.com/AndriyPy/Recipe220) 
 A collaborative web service powered by AI (OpenRouter) and PostgreSQL, featuring an advanced recipe generator and a complete monitoring stack (Grafana & Prometheus).
 > **Key Takeaways:** Engineered integration with external AI APIs; configured automated application monitoring and performance metrics; implemented Docker containerization for seamless deployment.
 
