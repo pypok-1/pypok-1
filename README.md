@@ -61,6 +61,7 @@ I am an independent developer preparing for university admissions. Currently foc
     </tr>
   </table>
 </details>
+
 ---
 
 ## Projects
