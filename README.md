@@ -4,7 +4,7 @@
   <b>Self-Driven Software Developer & Aspiring Undergrad</b>
 </p>
 
-I am an independent developer preparing for university admissions. Currently focused on building scalable web applications, mastering backend architecture, and practicing modern DevOps workflows through hands-on projects. Building upon a solid foundation from completing a two-year software development program, I am currently dedicating myself to intensive daily self-study and engineering.
+I am a self-driven developer currently completing my final year of high school with a clear goal of pursuing a Bachelor of Computer Science (BCS). After a long hiatus focused on my academic studies, I am finally back to intensive engineering and actively working on my projects again! Building on a solid technical foundation of 312 hours of Python development and 104 hours of soft skills training, I specialize in Django, FastAPI, and Flask, with hands-on experience in Docker, PostgreSQL, and CI/CD workflows. I don't just study code; I build real-world solutions like Smart Recipe and Lunor, focusing on REST API design, database optimization, and scalable backend architecture. I'm excited to reconnect with the community and collaborate! 
 
 ---
 
