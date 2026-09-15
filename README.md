@@ -31,7 +31,8 @@ I am an independent developer preparing for university admissions. Currently foc
 * **Development Workflows:** Proficient with Git-based collaboration (pull requests, code reviews, branching strategies) and familiar with Agile/Scrum fundamentals.
 * **Problem Solving:** Strong analytical mindset focused on debugging complex backend performance challenges and configuring monitoring tools.
 * **Self-Management:** Highly organized learner capable of scoping project requirements and meeting strict delivery deadlines.
-
+* **Communication & Technical Defense: Skilled in structuring technical presentations, pitching project architectures, active listening, and business communication.
+* **Career Readiness & Brand: Proactive approach to software development, public profile curation, and navigating startup/freelance ecosystems.
 ---
 
 ### Licenses & Professional Certifications
