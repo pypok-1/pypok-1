@@ -34,7 +34,7 @@ I am an independent developer preparing for university admissions. Currently foc
 
 ---
 <details>
- <summary><h2 display="inline"> Licenses & Professional Certifications</h2></summary>
+ <summary><font size="5"><b>Licenses & Professional Certifications</b></font></summary>
   <br>
   <table>
     <tr>
