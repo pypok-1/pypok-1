@@ -44,7 +44,7 @@ A collaborative web service powered by AI (OpenRouter) and PostgreSQL, featuring
 A full-stack skincare web application built with FastAPI, SQLAlchemy, and Jinja2 templates, featuring secure JWT/cookie authentication and account management.
 > **Key Takeaways:** Designed a clean RESTful API with rigid security standards using `bcrypt` for password hashing and secure token-based authentication; collaborated in a peer-to-peer setup utilizing Git workflows.
 
-### [GameBar](https://github.com/pypok-1/TimeosPPS/tree/main/GameBar) 
+### [GAMEBAR](https://github.com/pypok-1/TimeosPPS/tree/main/GameBar) 
 A game catalog web application built with Flask, SQLAlchemy, and Tailwind CSS, featuring global search, genre/rating filtering, and a personalized favorites system.
 > **Key Takeaways:** Implemented robust database models, search queries, and relational data structures within a 3-person team.
 
