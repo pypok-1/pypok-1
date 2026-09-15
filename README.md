@@ -25,7 +25,7 @@ I am an independent developer preparing for university admissions. Currently foc
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBwMTNoMmw2MWMwODgxOWhwazlqOHZvY2xlaWUxMWQzYzQxYmU2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gUNA7QH4AeLde/giphy.gif" width="25px"> Methodologies & Professional Skills
+## Methodologies & Professional Skills
 
 * **Teamwork & Collaboration:** Experienced in working within small cross-functional teams, managing tasks collectively, and practicing clear team communication.
 * **Development Workflows:** Proficient with Git-based collaboration (pull requests, code reviews, branching strategies) and familiar with Agile/Scrum fundamentals.
@@ -34,7 +34,7 @@ I am an independent developer preparing for university admissions. Currently foc
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBwMTNoMmw2MWMwODgxOWhwazlqOHZvY2xlaWUxMWQzYzQxYmU2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gUNA7QH4AeLde/giphy.gif" width="25px"> Projects
+## Projects
 
 ### [SMART RECIPE](https://github.com/AndriyPy/Recipe220) 
 A collaborative web service powered by AI (OpenRouter) and PostgreSQL, featuring an advanced recipe generator and a complete monitoring stack (Grafana & Prometheus).
@@ -50,7 +50,7 @@ A game catalog web application built with Flask, SQLAlchemy, and Tailwind CSS, f
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBwMTNoMmw2MWMwODgxOWhwazlqOHZvY2xlaWUxMWQzYzQxYmU2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gUNA7QH4AeLde/giphy.gif" width="25px"> Connect with Me
+## Connect with Me
 
 * **GitHub:** [pypok-1](https://github.com/pypok-1)
 > *More platforms coming soon...*
