@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBwMTNoMmw2MWMwODgxOWhwazlqOHZvY2xlaWUxMWQzYzQxYmU2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JmPabUqU22FAbQYkzN/giphy.gif" width="250px"><br>
-  <h1>Hi! I'm Yeva</h1>
+  <h1 align="center" >Hi! I'm Yeva</h1>
   <b>Self-Driven Software Developer & Aspiring Undergrad</b>
 </p>
 
