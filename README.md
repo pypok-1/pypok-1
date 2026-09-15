@@ -33,6 +33,7 @@ I am an independent developer preparing for university admissions. Currently foc
 * **Self-Management:** Highly organized learner capable of scoping project requirements and meeting strict delivery deadlines.
 
 ---
+
 ### Licenses & Professional Certifications
 
 <br>
@@ -72,6 +73,7 @@ A full-stack skincare web application built with FastAPI, SQLAlchemy, and Jinja2
 ### [GAMEBAR](https://github.com/pypok-1/TimeosPPS/tree/main/GameBar) 
 A game catalog web application built with Flask, SQLAlchemy, and Tailwind CSS, featuring global search, genre/rating filtering, and a personalized favorites system.
 > **Key Takeaways:** Implemented robust database models, search queries, and relational data structures within a 3-person team.
+
 
 ---
 
