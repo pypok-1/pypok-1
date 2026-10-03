@@ -43,7 +43,7 @@ I am a self-driven developer currently completing my final year of high school w
   <tr>
     <td width="270" valign="top">
       <a href="https://cdn.phototourl.com/free/2026-09-15-298df2c9-88ed-4a93-9f78-3f784e0c9493.jpg">
-        <img src="https://cdn.phototourl.com/free/2026-09-15-298df2c9-88ed-4a93-9f78-3f784e0c9493.jpg" width="260" style="border-radius:6px;border:1px solid #30363d;">
+        <img src="https://postimg.cc/Mf1RRB34" width="260" style="border-radius:6px;border:1px solid #30363d;">
       </a>
       <br><br>
       <sub><b>Python Pro Architecture & Development</b></sub><br>
@@ -55,7 +55,7 @@ I am a self-driven developer currently completing my final year of high school w
       </a>
       <br><br>
       <sub><b>Soft Skills & Teens</b></sub><br>
-      <sub>[Issuer] · [Month Year]</sub>
+      <sub>Apr 2026</sub>
     </td>
   </tr>
 </table>
