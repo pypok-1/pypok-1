@@ -42,7 +42,7 @@ I am a self-driven developer currently completing my final year of high school w
 <table>
   <tr>
     <td width="270" valign="top">
-      <a href="https://cdn.phototourl.com/free/2026-09-15-298df2c9-88ed-4a93-9f78-3f784e0c9493.jpg">
+      <a href="https://cdn.phototourl.com/member/2026-10-03-fbeefbf8-8ab3-486d-a5d0-c46a8ad79b59.jpg">
         <img src="https://postimg.cc/Mf1RRB34" width="260" style="border-radius:6px;border:1px solid #30363d;">
       </a>
       <br><br>
