@@ -50,7 +50,7 @@ I am a self-driven developer currently completing my final year of high school w
       <sub>GoITeens · Apr 2026 · <i>E-Commerce Platform</i></sub>
     </td>
     <td width="270" valign="top">
-      <a href="https://ibb.co/qPQmxyy" target="_blank">
+      <a href="https://i.postimg.cc/FznnkKfh/Certificate-Yeva-Cherkashyna-Soft-Skills.png)](https://postimg.cc/p5zBgRYS" target="_blank">
         <img src="https://i.postimg.cc/FznnkKfh/Certificate-Yeva-Cherkashyna-Soft-Skills.png)](https://postimg.cc/p5zBgRYS" width="260" style="border-radius:6px;border:1px solid #30363d;">
       </a>
       <br><br>
