@@ -42,16 +42,16 @@ I am a self-driven developer currently completing my final year of high school w
 <table>
   <tr>
     <td width="270" valign="top">
-      <a href="./images/python-cert.png" target="_blank">
-        <img src="./images/python-cert.png" width="260" style="border-radius:6px;border:1px solid #30363d;">
+      <a href="ССЫЛКА_НА_КАРТИНКУ_1" target="_blank">
+        <img src="ССЫЛКА_НА_КАРТИНКУ_1" width="260" style="border-radius:6px;border:1px solid #30363d;">
       </a>
       <br><br>
       <sub><b>Python Pro Architecture & Development</b></sub><br>
       <sub>GoITeens · Apr 2026 · <i>E-Commerce Platform</i></sub>
     </td>
     <td width="270" valign="top">
-      <a href="./images/soft-skills-cert.png" target="_blank">
-        <img src="./images/soft-skills-cert.png" width="260" style="border-radius:6px;border:1px solid #30363d;">
+      <a href="ССЫЛКА_НА_КАРТИНКУ_2" target="_blank">
+        <img src="ССЫЛКА_НА_КАРТИНКУ_2" width="260" style="border-radius:6px;border:1px solid #30363d;">
       </a>
       <br><br>
       <sub><b>Soft Skills & Teens</b></sub><br>
@@ -59,7 +59,6 @@ I am a self-driven developer currently completing my final year of high school w
     </td>
   </tr>
 </table>
-
 ---
 
 ## Projects
