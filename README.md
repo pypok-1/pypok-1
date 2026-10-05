@@ -42,8 +42,8 @@ I am a self-driven developer currently completing my final year of high school w
 <table>
   <tr>
     <td width="270" valign="top">
-      <a href="https://ibb.co/v6j7Sgsn" target="_blank">
-        <img src="https://ibb.co/v6j7Sgsn" width="260" style="border-radius:6px;border:1px solid #30363d;">
+      <a href="https://github.com/pypok-1/pypok-1/issues/2#issue-5716196602" target="_blank">
+        <img src="https://github.com/pypok-1/pypok-1/issues/2#issue-5716196602" width="260" style="border-radius:6px;border:1px solid #30363d;">
       </a>
       <br><br>
       <sub><b>Python Pro Architecture & Development</b></sub><br>
