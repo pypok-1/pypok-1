@@ -42,8 +42,8 @@ I am a self-driven developer currently completing my final year of high school w
 <table>
   <tr>
     <td width="270" valign="top">
-      <a href="https://github.com/pypok-1/pypok-1/issues/2#issue-5716196602" target="_blank">
-        <img src="https://github.com/pypok-1/pypok-1/issues/2#issue-5716196602" width="260" style="border-radius:6px;border:1px solid #30363d;">
+      <a href="https://github.com/pypok-1/pypok-1/issues/2" target="_blank">
+        <img src="https://github.com/user-attachments/assets/30d11c0f-efd2-4f50-983d-cf25c4a02014" width="260" style="border-radius:6px;border:1px solid #30363d;">
       </a>
       <br><br>
       <sub><b>Python Pro Architecture & Development</b></sub><br>
@@ -51,7 +51,7 @@ I am a self-driven developer currently completing my final year of high school w
     </td>
     <td width="270" valign="top">
       <a href="https://ibb.co/qPQmxyy" target="_blank">
-        <img src="https://ibb.co/qPQmxyy" width="260" style="border-radius:6px;border:1px solid #30363d;">
+        <img src="https://i.ibb.co/qPQmxyy/Soft-Skills-Teens.jpg" width="260" style="border-radius:6px;border:1px solid #30363d;">
       </a>
       <br><br>
       <sub><b>Soft Skills & Teens</b></sub><br>
