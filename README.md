@@ -51,7 +51,7 @@ I am a self-driven developer currently completing my final year of high school w
     </td>
     <td width="270" valign="top">
       <a href="https://ibb.co/qPQmxyy" target="_blank">
-        <img src="https://i.ibb.co/qPQmxyy/Soft-Skills-Teens.jpg" style="border-radius:6px;border:1px solid #30363d; height: auto;">
+        <img src="https://i.ibb.co/qPQmxyy/Soft-Skills-Teens.jpg" width="260" style="border-radius:6px;border:1px solid #30363d;">
       </a>
       <br><br>
       <sub><b>Soft Skills & Teens</b></sub><br>
@@ -59,6 +59,7 @@ I am a self-driven developer currently completing my final year of high school w
     </td>
   </tr>
 </table>
+
 ---
 
 ## Projects
